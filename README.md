@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Emaaz
+# 👋 Hellow World! I'm Muhammad Emaaz
  A Data Scientist & Data Analyst passionate about turning raw data into meaningful insights!<br><br>🚀 I am currently working on<br>• Building machine learning models to solve real-world problems<br>• Optimizing data pipelines and ETL workflows<br>• Data-driven decision-making for business growth<br><br>🤝 I am looking to collaborate on<br>• Open-source data science projects<br>• AI/ML model deployment and automation<br>• Data visualization and storytelling<br><br>❓ I am looking for help with<br>• Advanced deep learning techniques<br>• Scalable big data processing<br>• Time-series forecasting & NLP<br><br>📚 I am currently learning<br>• MLOps & model deployment strategies<br>• Large Language Models (LLMs) & Generative AI<br>• Advanced SQL & NoSQL database optimization<br><br>💡 Ask me about<br>• Data Science, AI & Machine Learning<br>• Python, Pandas, SQL & Power BI<br>• Data-driven business strategies<br><br>🎉 Fun Fact<br>• I can spend hours cleaning messy datasets but struggle to keep my desk organized! 😆
 
 
